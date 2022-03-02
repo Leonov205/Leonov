@@ -26,3 +26,4 @@
 <br/>:для работы в команде<br/>
 <br/>:чтобы иметь резервную копию<br/> 
 https://replit.com/@Leonov205/module1#task_1.py<br/>
+https://replit.com/@Leonov205/DullMistyroseSoftwaresuite#main.py<br/>
